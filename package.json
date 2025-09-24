@@ -1,0 +1,17 @@
+{
+  "name": "merucamp-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "body-parser": "^2.2.0",
+    "uuid": "^9.0.0",
+    "pdfkit": "^0.17.2",
+    "nodemailer": "^6.9.4",
+    "node-fetch": "^3.4.0"
+  }
+}
